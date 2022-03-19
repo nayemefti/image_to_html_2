@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navbvar section css start */
+a{
+    text-decoration: none;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 5px 10px;
+}
+.menu ul{
+    list-style: none;
+    display: inline-block;
+    margin-right: 45px;
+
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 16px 16px;
+    color: #5b4871;
+}
+/* navbar section css end */
+
+/* banner section css start  */
+.top{
+    margin-top: 16px;
+}
+.top h1{
+    color: #5b4871;
+}
+.top h2{
+    color: #008aff;
+    font-size: 36px;
+}
+.top p{
+    margin-top: 5px;
+    color: #758299;
+}
+
+/* banner section css end */
+
+/* payra section css start */
+.payra{
+    padding: 10px 10px;
+}
+.colum{
+    display: flex;
+    padding: 10px 10px;
+}
+.left{
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 35px;
+}
+.left h1{
+    color: #f15767;
+    text-align: right;
+    font-weight: 700;
+}
+.left p{
+    color: #758299;
+}
+.right{
+    margin-left: 30px;
+    margin-top: 30px;
+    color: black;
+    font-size: 34px;
+    font-weight: 700;
+}
+/* payra section css end */
+
+/* card-section css start */
+.card{
+    text-align: center;
+    padding: 10px 0px;
+    
+}
+/* card-section css end */
+/* footer section css end */
+.footer-statement{
+    text-align: center;
+    margin-top: 5px 0px;
+    background-color: #008aff;
+    height: 30px;
+    width: 100%;
+}
+.footer-statement{
+    color: #fff;
+    font-size: 14px;
+}
+.footer-statement p{
+    margin-top: 15px;
+}
+.footer-statement span{
+    letter-spacing:.4em;
+
+}
+/* footer section csss end */
